@@ -3,7 +3,7 @@ console.log("Bienvenido a mi GitHub!!");
 ```
 ---
 
-Soy Ariadna Guerra, profesora de Tics en Educación y estudiante de desarrollo web, apasionada por la educación y la tecnología.
+Soy Ariadna Guerra, profesora de Tic en Educación y estudiante de desarrollo web, apasionada por la educación y la tecnología.
 
 <div align="center">
     <img src="https://github.com/aguemarrero/aguemarrero/blob/main/creative.jpg" alt="Logo divertido sobre mi" width="500"height="500">
